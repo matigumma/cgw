@@ -1,0 +1,16 @@
+{
+  "name": "casino-bot",
+  "version": "1.0.0",
+  "description": "A free WhatsApp API bot source code, casino game concept.",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zack Rai",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "whatsapp-web.js": "^1.16.7"
+  }
+}
